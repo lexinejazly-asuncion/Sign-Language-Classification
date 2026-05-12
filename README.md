@@ -1,6 +1,11 @@
 # Sign Language Classification
+We initially trained models locally using Jupyter notebook, however we ran into the challenge of hardware limitations. We transitioned to Google Colab using the T4 GPU.   
 
-## Project Setup
+It's _**recommended to run the models on Google Colab for efficiency**_. To do this, simply open the "Sign_Language_Classification.ipynb" file.
+
+If you would like to run this locally, follow the project set up instructions below.
+
+## Local Project Setup Using Jupyter Notebook
 
 Follow these steps to set up the project locally and start working with the Jupyter Notebook.
 
